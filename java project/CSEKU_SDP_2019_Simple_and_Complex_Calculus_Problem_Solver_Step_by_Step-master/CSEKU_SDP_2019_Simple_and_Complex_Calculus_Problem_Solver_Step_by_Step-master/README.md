@@ -1,6 +1,6 @@
 # CSEKU_SDP_2019_
 
-Project Title: Simple and Complex Calculus Problem Solver Step by_Step
+Project Title: Simple and Complex Calculus Problem Solver Step by Step
 
 Project Manager: Kazi Masudul Alam, Associate Professor, CSE Discipline, Khulna University
 
